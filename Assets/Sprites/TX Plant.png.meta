@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b5932eebcc3daa5468c6f703dc0fc688
+guid: f77e17410ed4dd14b9dcc281a5264815
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cliff_Tile_0
+      name: TX Plant_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 80
-        width: 16
-        height: 16
+        x: 24
+        y: 359
+        width: 113
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d9cf04b5e55fc54180a901e9a931370
-      internalID: -1243355727
+      spriteID: 1447f37bcac94c349b531a4e86327630
+      internalID: -1068676948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_1
+      name: TX Plant_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 80
-        width: 16
-        height: 16
+        x: 161
+        y: 344
+        width: 97
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 993e59bbf10842b409f0b48e52bea2a1
-      internalID: -769652673
+      spriteID: 968dcd19f42c04841a0e836709bb9410
+      internalID: 1426668487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_2
+      name: TX Plant_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 80
-        width: 16
-        height: 16
+        x: 295
+        y: 361
+        width: 79
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee6d97b47688f9b488f84accc6ceda95
-      internalID: -2018937379
+      spriteID: 3b9fe480349dd4547a3c7c24376d2ede
+      internalID: -1655610380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_3
+      name: TX Plant_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 16
-        height: 16
+        x: 38
+        y: 295
+        width: 22
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a2c7e1a2c43c264ab50d933d4cfd8e3
-      internalID: 1219068151
+      spriteID: 4d49b2fcd6ccb28448e36fff0bf71ecb
+      internalID: 2014693229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_4
+      name: TX Plant_4
       rect:
         serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
+        x: 98
+        y: 292
+        width: 27
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfb92a11531233844aa15a7a3b70922d
-      internalID: -1020443714
+      spriteID: 4d08f305bd1627e4ead5ef609eced3d0
+      internalID: -11816464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_5
+      name: TX Plant_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
+        x: 156
+        y: 290
+        width: 38
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 474c439dc73d8d64c8ed1e95fa7e2378
-      internalID: -2086319605
+      spriteID: 71f743f9dbb847e41b5f7e039097ccbe
+      internalID: 1870060650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_6
+      name: TX Plant_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
+        x: 216
+        y: 285
+        width: 47
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 789214a7f868e55489eb56c03714c6d6
-      internalID: 978120159
+      spriteID: 680f2a52bcc6fb245b4ba2b35d55eb03
+      internalID: 90906673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_7
+      name: TX Plant_7
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
+        x: 282
+        y: 281
+        width: 39
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,20 +271,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 193da58955e467944bcb363ff2f2d278
-      internalID: 1378505347
+      spriteID: ecb61d49306c82349be6e784f36ef3ce
+      internalID: -1974514921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_8
+      name: TX Plant_8
       rect:
         serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
+        x: 346
+        y: 287
+        width: 40
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,20 +292,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f309dc4c51d6654e931d15a3287c821
-      internalID: 586494529
+      spriteID: 2941da0a429c33b4da55765fcffd9739
+      internalID: -1558143773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_9
+      name: TX Plant_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
+        x: 8
+        y: 109
+        width: 17
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,20 +313,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78038e0deed41b74bb4ffdec582c8d62
-      internalID: 1679133959
+      spriteID: df011a43f9c82184fbfdcf9ae796f9c4
+      internalID: -2081262845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_10
+      name: TX Plant_10
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
+        x: 41
+        y: 108
         width: 16
-        height: 16
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,20 +334,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 125dea3fe4caf194eb0e546ec0a5e1ba
-      internalID: 2056748905
+      spriteID: af66d5ec50afc89449a7bacdfa40477e
+      internalID: 1182230524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_11
+      name: TX Plant_11
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
+        x: 73
+        y: 108
+        width: 15
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,20 +355,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b6493e91ba673e418713e2106405fa7
-      internalID: 1784974598
+      spriteID: 355c2420156286c42ba172499172eeee
+      internalID: 708938613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_12
+      name: TX Plant_12
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
+        x: 102
+        y: 107
+        width: 15
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,20 +376,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b0ea5b57a0f5c44582f309829b5c54c
-      internalID: 607988665
+      spriteID: 45a8e0fc58b0d2b42b6b7ba489050299
+      internalID: 1790333931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_13
+      name: TX Plant_13
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 9
+        y: 76
+        width: 12
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,20 +397,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c21f900545be8374ba890ad0b687754f
-      internalID: 546457452
+      spriteID: 3c51d639fe39ed840adcda619002bd0b
+      internalID: -71698783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_14
+      name: TX Plant_14
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
+        x: 43
+        y: 76
+        width: 13
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,20 +418,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fbd9ac85283f804c9ec95f894d68dd1
-      internalID: -767529563
+      spriteID: e1eee5177913d4146ac13d11a091e1e4
+      internalID: -1366185675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_15
+      name: TX Plant_15
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
+        x: 74
+        y: 76
+        width: 13
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,8 +439,197 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7b8a79b72743004eba199dd32a83e7a
-      internalID: -1119412627
+      spriteID: e6c55e8e21489314aa16de48c482554f
+      internalID: -388697654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Plant_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 77
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169b326f25f4eb94cbea547e29d3b31c
+      internalID: 513702865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Plant_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25de60c36b6eff4ba95803e3bd514e6
+      internalID: 1029600696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Plant_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd42aa0548b3946b5634bb35c41ecc
+      internalID: -649441772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Plant_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9990b4926fea26443a6ea88ed49e124c
+      internalID: -2016734487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Plant_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cafae3f618b5349a0aa71655647b59
+      internalID: 327473957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Plant_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deacd48440d0e14184cd63d080389bf
+      internalID: -1261196208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Plant_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 10
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820534d2e98670a46a4df0b6724586e8
+      internalID: -299162369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Plant_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13c50d67e054d148b95a04bea40e124
+      internalID: 1483162879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Plant_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 12
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b674a0c916e2740a317309e966714b
+      internalID: 1668196798
       vertices: []
       indices: 
       edges: []
@@ -456,22 +645,31 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Cliff_Tile_0: -1243355727
-      Cliff_Tile_1: -769652673
-      Cliff_Tile_10: 2056748905
-      Cliff_Tile_11: 1784974598
-      Cliff_Tile_12: 607988665
-      Cliff_Tile_13: 546457452
-      Cliff_Tile_14: -767529563
-      Cliff_Tile_15: -1119412627
-      Cliff_Tile_2: -2018937379
-      Cliff_Tile_3: 1219068151
-      Cliff_Tile_4: -1020443714
-      Cliff_Tile_5: -2086319605
-      Cliff_Tile_6: 978120159
-      Cliff_Tile_7: 1378505347
-      Cliff_Tile_8: 586494529
-      Cliff_Tile_9: 1679133959
+      TX Plant_0: -1068676948
+      TX Plant_1: 1426668487
+      TX Plant_10: 1182230524
+      TX Plant_11: 708938613
+      TX Plant_12: 1790333931
+      TX Plant_13: -71698783
+      TX Plant_14: -1366185675
+      TX Plant_15: -388697654
+      TX Plant_16: 513702865
+      TX Plant_17: 1029600696
+      TX Plant_18: -649441772
+      TX Plant_19: -2016734487
+      TX Plant_2: -1655610380
+      TX Plant_20: 327473957
+      TX Plant_21: -1261196208
+      TX Plant_22: -299162369
+      TX Plant_23: 1483162879
+      TX Plant_24: 1668196798
+      TX Plant_3: 2014693229
+      TX Plant_4: -11816464
+      TX Plant_5: 1870060650
+      TX Plant_6: 90906673
+      TX Plant_7: -1974514921
+      TX Plant_8: -1558143773
+      TX Plant_9: -2081262845
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

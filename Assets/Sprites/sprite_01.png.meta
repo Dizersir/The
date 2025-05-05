@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9708214dacc33b54787dbd46c435717e
+guid: d1baa29b22cb1b4499946ac16a25fb1e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Oak_Tree_Small_0
+      name: sprite_01_1
       rect:
         serializedVersion: 2
-        x: 13
-        y: 14
-        width: 7
-        height: 8
+        x: 11
+        y: 52
+        width: 24
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99279607f9f516949afc6ec7b32472f3
-      internalID: -679333692
+      spriteID: 3927c8b765d67cf4694f681f33233f3f
+      internalID: -1335167412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Oak_Tree_Small_1
+      name: sprite_01_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358cbe70fc11b5a4abe0887a3693363b
+      internalID: 1189732697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_01_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 52
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855bae519335d7e4ebd4ee8be25f5466
+      internalID: -1971211143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_01_8
       rect:
         serializedVersion: 2
         x: 37
-        y: 11
-        width: 23
-        height: 34
+        y: 30
+        width: 25
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bfcce8aa4613be4b9768046e6fd42e3
-      internalID: -2074973126
+      spriteID: 58f64360e9611a349a3b410b8e91e3dc
+      internalID: 210969050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Oak_Tree_Small_2
+      name: sprite_01_10
       rect:
         serializedVersion: 2
-        x: 69
-        y: 19
-        width: 23
-        height: 26
+        x: 63
+        y: 31
+        width: 26
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +208,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2213eed44da7b2343b776d793395b8a0
-      internalID: -129747374
+      spriteID: 863d23266a7facf4c97e264d66235697
+      internalID: -352297116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_01_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d27a651882bf8e4fb05bc6351ab4597
+      internalID: 1437829710
       vertices: []
       indices: 
       edges: []
@@ -183,9 +246,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Oak_Tree_Small_0: -679333692
-      Oak_Tree_Small_1: -2074973126
-      Oak_Tree_Small_2: -129747374
+      sprite_01_0: -1893473350
+      sprite_01_1: -1335167412
+      sprite_01_10: -352297116
+      sprite_01_11: -670764265
+      sprite_01_12: -637357506
+      sprite_01_13: 1437829710
+      sprite_01_14: 138222323
+      sprite_01_15: 1690092988
+      sprite_01_16: -1398024102
+      sprite_01_17: 684360915
+      sprite_01_2: -119418899
+      sprite_01_3: 1189732697
+      sprite_01_4: -1971211143
+      sprite_01_5: 1792333448
+      sprite_01_6: 565517039
+      sprite_01_7: -1395809743
+      sprite_01_8: 210969050
+      sprite_01_9: 1351873813
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

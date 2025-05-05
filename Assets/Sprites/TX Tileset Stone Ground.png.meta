@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b5932eebcc3daa5468c6f703dc0fc688
+guid: 360268a43a4f1814b91693c3061f4463
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cliff_Tile_0
+      name: TX Tileset Stone Ground_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 80
-        width: 16
-        height: 16
+        y: 161
+        width: 95
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d9cf04b5e55fc54180a901e9a931370
-      internalID: -1243355727
+      spriteID: c3e38fc75c6f2c840b363ee3ca961a6e
+      internalID: 53002093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_1
+      name: TX Tileset Stone Ground_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 80
-        width: 16
-        height: 16
+        x: 95
+        y: 160
+        width: 33
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 993e59bbf10842b409f0b48e52bea2a1
-      internalID: -769652673
+      spriteID: 1d4fbb8e3b692b04483469891f18e517
+      internalID: -123752741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_2
+      name: TX Tileset Stone Ground_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 80
-        width: 16
-        height: 16
+        x: 128
+        y: 128
+        width: 33
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,83 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee6d97b47688f9b488f84accc6ceda95
-      internalID: -2018937379
+      spriteID: c729731646abedd4699a68dfe1e933e7
+      internalID: 1283583512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_3
+      name: TX Tileset Stone Ground_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 160
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f783d4d27269d2d42abdf41a066536d8
+      internalID: 1033612622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Stone Ground_4
       rect:
         serializedVersion: 2
         x: 0
+        y: 128
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ff7f91aab7f44d84a83176a7c5868
+      internalID: 1821026087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Stone Ground_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 128
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932925cead51c845b8f5110301ab185
+      internalID: -811460312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Stone Ground_10
+      rect:
+        serializedVersion: 2
+        x: 161
         y: 64
-        width: 16
-        height: 16
+        width: 95
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,209 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a2c7e1a2c43c264ab50d933d4cfd8e3
-      internalID: 1219068151
+      spriteID: 8078d43901cd49647b44941bdc6c3d13
+      internalID: -808079698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_4
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cfb92a11531233844aa15a7a3b70922d
-      internalID: -1020443714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cliff_Tile_5
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 474c439dc73d8d64c8ed1e95fa7e2378
-      internalID: -2086319605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cliff_Tile_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 789214a7f868e55489eb56c03714c6d6
-      internalID: 978120159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cliff_Tile_7
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 193da58955e467944bcb363ff2f2d278
-      internalID: 1378505347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cliff_Tile_8
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f309dc4c51d6654e931d15a3287c821
-      internalID: 586494529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cliff_Tile_9
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 78038e0deed41b74bb4ffdec582c8d62
-      internalID: 1679133959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cliff_Tile_10
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 125dea3fe4caf194eb0e546ec0a5e1ba
-      internalID: 2056748905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cliff_Tile_11
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b6493e91ba673e418713e2106405fa7
-      internalID: 1784974598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cliff_Tile_12
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b0ea5b57a0f5c44582f309829b5c54c
-      internalID: 607988665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cliff_Tile_13
+      name: TX Tileset Stone Ground_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
-        height: 16
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,20 +271,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c21f900545be8374ba890ad0b687754f
-      internalID: 546457452
+      spriteID: 4ff5ffbd8ba1dc844b6bf2fa2aba71a9
+      internalID: 620577306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_14
+      name: TX Tileset Stone Ground_14
       rect:
         serializedVersion: 2
-        x: 16
+        x: 128
         y: 0
-        width: 16
-        height: 16
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,20 +292,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fbd9ac85283f804c9ec95f894d68dd1
-      internalID: -767529563
+      spriteID: 7b6a522abd291c8419a895e88b6b5486
+      internalID: -1477342347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cliff_Tile_15
+      name: TX Tileset Stone Ground_15
       rect:
         serializedVersion: 2
-        x: 32
+        x: 192
         y: 0
-        width: 16
-        height: 16
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,8 +313,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7b8a79b72743004eba199dd32a83e7a
-      internalID: -1119412627
+      spriteID: 69945c01f67d02548a384f620786d48c
+      internalID: 1759292641
       vertices: []
       indices: 
       edges: []
@@ -456,22 +330,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Cliff_Tile_0: -1243355727
-      Cliff_Tile_1: -769652673
-      Cliff_Tile_10: 2056748905
-      Cliff_Tile_11: 1784974598
-      Cliff_Tile_12: 607988665
-      Cliff_Tile_13: 546457452
-      Cliff_Tile_14: -767529563
-      Cliff_Tile_15: -1119412627
-      Cliff_Tile_2: -2018937379
-      Cliff_Tile_3: 1219068151
-      Cliff_Tile_4: -1020443714
-      Cliff_Tile_5: -2086319605
-      Cliff_Tile_6: 978120159
-      Cliff_Tile_7: 1378505347
-      Cliff_Tile_8: 586494529
-      Cliff_Tile_9: 1679133959
+      TX Tileset Stone Ground_0: 53002093
+      TX Tileset Stone Ground_1: -123752741
+      TX Tileset Stone Ground_10: -808079698
+      TX Tileset Stone Ground_11: 975982014
+      TX Tileset Stone Ground_12: 620577306
+      TX Tileset Stone Ground_13: 1622253330
+      TX Tileset Stone Ground_14: -1477342347
+      TX Tileset Stone Ground_15: 1759292641
+      TX Tileset Stone Ground_2: 1283583512
+      TX Tileset Stone Ground_3: 1033612622
+      TX Tileset Stone Ground_4: 1821026087
+      TX Tileset Stone Ground_5: -811460312
+      TX Tileset Stone Ground_6: -662843194
+      TX Tileset Stone Ground_7: 1926065355
+      TX Tileset Stone Ground_8: -2005174750
+      TX Tileset Stone Ground_9: -1937568641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
